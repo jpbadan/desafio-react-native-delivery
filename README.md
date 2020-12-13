@@ -108,4 +108,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ---
 
-Made with ♥ by André Dourado :wave: [Get in touch!](https://www.linkedin.com/in/andre-dourado/)
+Made with ♥ by Joao Pedro Badan :wave: [Get in touch!](https://www.linkedin.com/in/jpbadan/)
